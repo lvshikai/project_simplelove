@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">简爱</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- 底部主页面显示 -->
+    <string name="beckoning">心动</string>
+    <string name="club">俱乐部</string>
+    <string name="mailbox">信箱</string>
+    <string name="my">我的</string>
+
+</resources>
